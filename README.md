@@ -1,4 +1,4 @@
-# TV_Script_Generation_Pytorch_Udacity
+# Udacity_TV_Script_Generation
 This project is a part of deep learning nanodegree program at [Udacity](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 
 ## Project Overview
